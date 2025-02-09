@@ -6,5 +6,5 @@ tags: [test]
 comments: true
 author: Buono
 ---
-<h1>这是一个测试内容</h1>
+这是一个测试内容<br/>
 应该还是用的html语言格式，那如果按照这样的话我可以尝试把之前写的东西搬过来
